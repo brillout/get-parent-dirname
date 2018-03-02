@@ -1,0 +1,10 @@
+{
+  "name": "@brillout/get-parent-dirname",
+  "version": "0.0.1",
+  "main": "./index.js",
+  "dependencies": {
+    "parent-module": "^0.1.0",
+    "reassert": "1.1.1"
+  },
+  "repository": "github:brillout/get-parent-dirname"
+}
