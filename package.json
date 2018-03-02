@@ -2,9 +2,15 @@
   "name": "@brillout/get-parent-dirname",
   "version": "0.0.1",
   "main": "./index.js",
+  "scripts": {
+    "docs": "./node_modules/.bin/mdocs"
+  },
   "dependencies": {
     "parent-module": "^0.1.0",
     "reassert": "1.1.1"
   },
-  "repository": "github:brillout/get-parent-dirname"
+  "repository": "github:brillout/get-parent-dirname",
+  "devDependencies": {
+    "@brillout/mdocs": "^0.1.9"
+  }
 }
